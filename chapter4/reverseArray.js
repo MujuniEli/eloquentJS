@@ -11,3 +11,10 @@ function reverseArray(array) {
     return reversedArray;
 }
 
+console.log(reverseArray(["A", "B", "C"]));
+// → ["C", "B", "A"];
+
+
+function reverseArrayInPlace() {
+    
+}
